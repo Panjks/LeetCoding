@@ -36,3 +36,4 @@ if __name__ == "__main__":
     test_J = "z"
     test_S = "ZZ"
     print(sln.numJewelsInStones(test_J, test_S))
+    # Finished
